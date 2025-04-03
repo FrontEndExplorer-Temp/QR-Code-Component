@@ -8,7 +8,7 @@ This is a simple QR code component that allows users to scan the QR code to visi
 
 ### Links
 
-- [Live Demo](#) (Add your live project link here)
+- [Live Demo](https://frontendexplorer-temp.github.io/QR-Code-Component/) 
 - [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sD5N)
 
 ## My Process
